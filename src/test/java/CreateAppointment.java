@@ -1,14 +1,6 @@
-import org.junit.Assert;
 import org.junit.Test;
 
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-
-import static org.hamcrest.MatcherAssert.assertThat;
 import static org.junit.Assert.assertNotEquals;
-import static org.junit.Assert.assertNotNull;
-import static org.junit.matchers.JUnitMatchers.hasItem;
 
 public class CreateAppointment {
     @Test
