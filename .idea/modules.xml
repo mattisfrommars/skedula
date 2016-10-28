@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/skedula.iml" filepath="$PROJECT_DIR$/.idea/modules/skedula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/skedula_main.iml" filepath="$PROJECT_DIR$/.idea/modules/skedula_main.iml" group="skedula" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/skedula_test.iml" filepath="$PROJECT_DIR$/.idea/modules/skedula_test.iml" group="skedula" />
+    </modules>
+  </component>
+</project>
